@@ -1,0 +1,21 @@
+
+
+/*
+selector{
+    property: value;
+}
+*/
+
+
+h1, h2 { 
+     color: blueviolet;
+}
+
+p {
+    color: brown;
+}
+
+footer {
+    background-color: blueviolet;
+    color: lightyellow;
+}
